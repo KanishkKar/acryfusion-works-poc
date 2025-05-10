@@ -1,0 +1,411 @@
+
+[
+    {
+        "id": "101",
+        "name": "Virtual Reality Goggle",
+        "description": "Laser Cut Christmas Tree V2.0 Standard Template",
+        "price": "₹525.55",
+        "imageSrc": "/images/google-cardboard-vr-headset-v2.0-standard-template.jpg",
+        "imageAlt": "Google cardboard virtual reality goggle based on v2.0 standard template.",
+        "href": "#",
+        "sortId": "1",
+        "tags": ["NEW", "EDITOR'S CHOICE"],
+        "pointers": [
+            "Hand cut and sewn locally",
+            "Dyed with our proprietary colors",
+            "Pre-washed & pre-shrunk",
+            "Ultra-soft 100% cotton"
+          ],
+        "details":
+          "The 6-Pack includes two black, two white, and two heather slate Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release.",
+        "images": [
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-secondary-design-shot.jpg",
+            "alt": "Two each of slate, white, and black shirts laying flat."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-01.jpg",
+            "alt": "Model wearing plain black basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-02.jpg",
+            "alt": "Model wearing plain slate basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-featured-design-shot.jpg",
+            "alt": "Model wearing plain white basic tee."
+          }
+        ],
+        "materials": [
+          { "name": "Wood", "class": "bg-white", "selectedClass": "ring-slate-400" },
+          { "name": "Cardboard", "class": "bg-slate-200", "selectedClass": "ring-slate-400" }
+        ],
+        "sizes": [
+          { "name": "XXS", "inStock": false },
+          { "name": "XS", "inStock": true },
+          { "name": "S", "inStock": true },
+          { "name": "M", "inStock": true },
+          { "name": "L", "inStock": true },
+          { "name": "XL", "inStock": true },
+          { "name": "2XL", "inStock": true },
+          { "name": "3XL", "inStock": true }
+        ]
+    },
+    {
+        "id": "102",
+        "name": "Cardboard Phone Holder",
+        "description": "Cardboard phone holder",
+        "price": "₹225.55",
+        "imageSrc": "/images/phone-holder.jpg",
+        "imageAlt": "Laser cut cardboard phone holder.",
+        "href": "#",
+        "sortId": "2",
+        "tags": ["POPULAR"],
+        "pointers": [
+            "Hand cut and sewn locally",
+            "Dyed with our proprietary colors",
+            "Pre-washed & pre-shrunk",
+            "Ultra-soft 100% cotton"
+          ],
+        "details":
+          "The 6-Pack includes two black, two white, and two heather slate Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release.",
+        "images": [
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-secondary-design-shot.jpg",
+            "alt": "Two each of slate, white, and black shirts laying flat."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-01.jpg",
+            "alt": "Model wearing plain black basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-02.jpg",
+            "alt": "Model wearing plain slate basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-featured-design-shot.jpg",
+            "alt": "Model wearing plain white basic tee."
+          }
+        ],
+        "materials": [
+          { "name": "Wood", "class": "bg-white", "selectedClass": "ring-slate-400" },
+          { "name": "Cardboard", "class": "bg-slate-200", "selectedClass": "ring-slate-400" }
+        ],
+        "sizes": [
+          { "name": "XXS", "inStock": false },
+          { "name": "XS", "inStock": true },
+          { "name": "S", "inStock": true },
+          { "name": "M", "inStock": true },
+          { "name": "L", "inStock": true },
+          { "name": "XL", "inStock": true },
+          { "name": "2XL", "inStock": true },
+          { "name": "3XL", "inStock": true }
+        ]
+    },
+    {
+        "id": "103",
+        "name": "Tangram Puzzle",
+        "description": "Tangram Patterns for Creative Puzzle Making",
+        "price": "₹500.00",
+        "imageSrc": "/images/tangram-puzzle.jpg",
+        "imageAlt": "Printable Tangram patterns for creative puzzle making.",
+        "href": "#",
+        "sortId": "3",
+        "tags": ["NEW"],
+        "pointers": [
+            "Hand cut and sewn locally",
+            "Dyed with our proprietary colors",
+            "Pre-washed & pre-shrunk",
+            "Ultra-soft 100% cotton"
+          ],
+        "details":
+          "The 6-Pack includes two black, two white, and two heather slate Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release.",
+        "images": [
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-secondary-design-shot.jpg",
+            "alt": "Two each of slate, white, and black shirts laying flat."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-01.jpg",
+            "alt": "Model wearing plain black basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-02.jpg",
+            "alt": "Model wearing plain slate basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-featured-design-shot.jpg",
+            "alt": "Model wearing plain white basic tee."
+          }
+        ],
+        "materials": [
+          { "name": "Wood", "class": "bg-white", "selectedClass": "ring-slate-400" },
+          { "name": "Cardboard", "class": "bg-slate-200", "selectedClass": "ring-slate-400" }
+        ],
+        "sizes": [
+          { "name": "XXS", "inStock": false },
+          { "name": "XS", "inStock": true },
+          { "name": "S", "inStock": true },
+          { "name": "M", "inStock": true },
+          { "name": "L", "inStock": true },
+          { "name": "XL", "inStock": true },
+          { "name": "2XL", "inStock": true },
+          { "name": "3XL", "inStock": true }
+        ]
+    },
+    {
+        "id": "104",
+        "name": "Laset Cut Coasters",
+        "description": "3 in 1 Laset Cut Coasters",
+        "price": "600.00",
+        "imageSrc": "/images/3-in-1-laser-cut-coasters.jpg",
+        "imageAlt": "Colorful laseR cut coasters.",
+        "href": "#",
+        "sortId": "4",
+        "tags": ["POPULAR", "NEW"],
+        "pointers": [
+            "Hand cut and sewn locally",
+            "Dyed with our proprietary colors",
+            "Pre-washed & pre-shrunk",
+            "Ultra-soft 100% cotton"
+          ],
+        "details":
+          "The 6-Pack includes two black, two white, and two heather slate Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release.",
+        "images": [
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-secondary-design-shot.jpg",
+            "alt": "Two each of slate, white, and black shirts laying flat."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-01.jpg",
+            "alt": "Model wearing plain black basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-02.jpg",
+            "alt": "Model wearing plain slate basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-featured-design-shot.jpg",
+            "alt": "Model wearing plain white basic tee."
+          }
+        ],
+        "materials": [
+          { "name": "Wood", "class": "bg-white", "selectedClass": "ring-slate-400" },
+          { "name": "Cardboard", "class": "bg-slate-200", "selectedClass": "ring-slate-400" }
+        ],
+        "sizes": [
+          { "name": "XXS", "inStock": false },
+          { "name": "XS", "inStock": true },
+          { "name": "S", "inStock": true },
+          { "name": "M", "inStock": true },
+          { "name": "L", "inStock": true },
+          { "name": "XL", "inStock": true },
+          { "name": "2XL", "inStock": true },
+          { "name": "3XL", "inStock": true }
+        ]
+    },
+    {
+        "id": "105",
+        "name": "Key Holder Box",
+        "description": "Laser Cut Plywood Key Holder",
+        "price": "800.99",
+        "imageSrc": "/images/diy-plywood-key-box-holder.jpg",
+        "imageAlt": "Laser cut plywood key holder.",
+        "href": "#",
+        "sortId": "5",
+        "tags": ["NEW"],
+        "pointers": [
+            "Hand cut and sewn locally",
+            "Dyed with our proprietary colors",
+            "Pre-washed & pre-shrunk",
+            "Ultra-soft 100% cotton"
+          ],
+        "details":
+          "The 6-Pack includes two black, two white, and two heather slate Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release.",
+        "images": [
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-secondary-design-shot.jpg",
+            "alt": "Two each of slate, white, and black shirts laying flat."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-01.jpg",
+            "alt": "Model wearing plain black basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-02.jpg",
+            "alt": "Model wearing plain slate basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-featured-design-shot.jpg",
+            "alt": "Model wearing plain white basic tee."
+          }
+        ],
+        "materials": [
+          { "name": "Wood", "class": "bg-white", "selectedClass": "ring-slate-400" },
+          { "name": "Cardboard", "class": "bg-slate-200", "selectedClass": "ring-slate-400" }
+        ],
+        "sizes": [
+          { "name": "XXS", "inStock": false },
+          { "name": "XS", "inStock": true },
+          { "name": "S", "inStock": true },
+          { "name": "M", "inStock": true },
+          { "name": "L", "inStock": true },
+          { "name": "XL", "inStock": true },
+          { "name": "2XL", "inStock": true },
+          { "name": "3XL", "inStock": true }
+        ]
+    },
+    {
+        "id": "106",
+        "name": "Open Box",
+        "description": "Simple open box",
+        "price": "₹225.55",
+        "imageSrc": "/images/open-box.jpg",
+        "imageAlt": "Box with top and front open.",
+        "href": "#",
+        "sortId": "6",
+        "tags": ["NEW"],
+        "pointers": [
+            "Hand cut and sewn locally",
+            "Dyed with our proprietary colors",
+            "Pre-washed & pre-shrunk",
+            "Ultra-soft 100% cotton"
+          ],
+        "details":
+          "The 6-Pack includes two black, two white, and two heather slate Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release.",
+        "images": [
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-secondary-design-shot.jpg",
+            "alt": "Two each of slate, white, and black shirts laying flat."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-01.jpg",
+            "alt": "Model wearing plain black basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-02.jpg",
+            "alt": "Model wearing plain slate basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-featured-design-shot.jpg",
+            "alt": "Model wearing plain white basic tee."
+          }
+        ],
+        "materials": [
+          { "name": "Wood", "class": "bg-white", "selectedClass": "ring-slate-400" },
+          { "name": "Cardboard", "class": "bg-slate-200", "selectedClass": "ring-slate-400" }
+        ],
+        "sizes": [
+          { "name": "XXS", "inStock": false },
+          { "name": "XS", "inStock": true },
+          { "name": "S", "inStock": true },
+          { "name": "M", "inStock": true },
+          { "name": "L", "inStock": true },
+          { "name": "XL", "inStock": true },
+          { "name": "2XL", "inStock": true },
+          { "name": "3XL", "inStock": true }
+        ]
+    },
+    {
+        "id": "107",
+        "name": "Stackable Storage Box",
+        "description": "Laser Cut Stackable Mdf Storage Box Idea",
+        "price": "555.55",
+        "imageSrc": "/images/stackable-mdf-storage-box.jpg",
+        "imageAlt": "Laser cut stackable mdf storage box.",
+        "href": "#",
+        "sortId": "7",
+        "tags": ["NEW", "EDITOR'S CHOICE"],
+        "pointers": [
+            "Hand cut and sewn locally",
+            "Dyed with our proprietary colors",
+            "Pre-washed & pre-shrunk",
+            "Ultra-soft 100% cotton"
+          ],
+        "details":
+          "The 6-Pack includes two black, two white, and two heather slate Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release.",
+        "images": [
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-secondary-design-shot.jpg",
+            "alt": "Two each of slate, white, and black shirts laying flat."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-01.jpg",
+            "alt": "Model wearing plain black basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-02.jpg",
+            "alt": "Model wearing plain slate basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-featured-design-shot.jpg",
+            "alt": "Model wearing plain white basic tee."
+          }
+        ],
+        "materials": [
+          { "name": "Wood", "class": "bg-white", "selectedClass": "ring-slate-400" },
+          { "name": "Cardboard", "class": "bg-slate-200", "selectedClass": "ring-slate-400" }
+        ],
+        "sizes": [
+          { "name": "XXS", "inStock": false },
+          { "name": "XS", "inStock": true },
+          { "name": "S", "inStock": true },
+          { "name": "M", "inStock": true },
+          { "name": "L", "inStock": true },
+          { "name": "XL", "inStock": true },
+          { "name": "2XL", "inStock": true },
+          { "name": "3XL", "inStock": true }
+        ]
+    },
+    {
+        "id": "108",
+        "name": "Christmas Tree",
+        "description": "Laser Cut Christmas Tree",
+        "price": "999.47",
+        "imageSrc": "/images/wood-christmas-tree.jpg",
+        "imageAlt": "Laser cut wooden christmas tree.",
+        "href": "#",
+        "sortId": "8",
+        "tags": ["EDITOR'S CHOICE"],
+        "pointers": [
+            "Hand cut and sewn locally",
+            "Dyed with our proprietary colors",
+            "Pre-washed & pre-shrunk",
+            "Ultra-soft 100% cotton"
+          ],
+        "details":
+          "The 6-Pack includes two black, two white, and two heather slate Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming 'Charcoal Gray' limited release.",
+        "images": [
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-secondary-design-shot.jpg",
+            "alt": "Two each of slate, white, and black shirts laying flat."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-01.jpg",
+            "alt": "Model wearing plain black basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-tertiary-design-shot-02.jpg",
+            "alt": "Model wearing plain slate basic tee."
+          },
+          {
+            "src": "https://tailwindui.com/plus/img/ecommerce-images/design-page-02-featured-design-shot.jpg",
+            "alt": "Model wearing plain white basic tee."
+          }
+        ],
+        "materials": [
+          { "name": "Wood", "class": "bg-white", "selectedClass": "ring-slate-400" },
+          { "name": "Cardboard", "class": "bg-slate-200", "selectedClass": "ring-slate-400" }
+        ],
+        "sizes": [
+          { "name": "XXS", "inStock": false },
+          { "name": "XS", "inStock": true },
+          { "name": "S", "inStock": true },
+          { "name": "M", "inStock": true },
+          { "name": "L", "inStock": true },
+          { "name": "XL", "inStock": true },
+          { "name": "2XL", "inStock": true },
+          { "name": "3XL", "inStock": true }
+        ]
+    }
+]
